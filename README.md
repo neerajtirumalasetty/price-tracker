@@ -54,7 +54,7 @@ A full-stack data analytics application that tracks and visualizes commodity pri
 
 ## 📸 Screenshot
 
-![Dashboard](./screenshot.png)
+![Dashboard](./Screenshot.png)
 
 ---
 
